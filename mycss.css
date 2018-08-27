@@ -1,0 +1,200 @@
+/* Common */
+body {
+    background-color: #FFFFFF;
+
+    margin: 0 0 0 0;
+}
+
+@font-face {
+    font-family: 'NanumSquareR';
+    src: url(NanumSquareR.ttf) format('truetype');
+}
+
+/* Header */
+#header {
+    background-color: #FFFFFF;
+
+    width: 100%;
+    height: 100px;
+
+    position: absolute;
+    z-index: 1;
+
+    border-bottom-style: solid;
+    border-bottom-color: #BFBFBF;
+    border-bottom-width: 3px;
+}
+
+/* Main */
+#layout {
+    background-color: #FFFFFF;
+
+    width: 1280px;
+    height: 680px;
+
+    margin: -300px 0 0 -650px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    border-style: solid;
+    border-color: #F2F2F2;
+    border-width: 20px;
+}
+
+#category {
+    background-color: #F2F2F2;
+
+    width: 280px;
+    height: 680px;
+
+    float: left;
+}
+
+.cate1 {
+    background-color: #FFC000;
+
+    width: 270px;
+    height: 80px;
+
+    margin-bottom: 10px;
+
+    /* text vertical & horizontal center */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+    font-family: "NanumSquareR";
+    font-size: 30px;
+
+    cursor: default ;
+
+    user-select: none;
+}
+
+.cate2 {
+    background-color: #FFC000;
+
+    width: 270px;
+    height: 80px;
+
+    margin-bottom: 10px;
+
+    /* text vertical & horizontal center */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+    font-family: "NanumSquareR";
+    font-size: 30px;
+
+    cursor: default ;
+
+    user-select: none;
+}
+.cate3 {
+    background-color: #FFC000;
+
+    width: 270px;
+    height: 80px;
+
+    margin-bottom: 10px;
+
+    /* text vertical & horizontal center */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+    font-family: "NanumSquareR";
+    font-size: 30px;
+
+    cursor: default ;
+
+    user-select: none;
+}
+.cate4 {
+    background-color: #FFC000;
+
+    width: 270px;
+    height: 80px;
+
+    margin-bottom: 10px;
+
+    /* text vertical & horizontal center */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+    font-family: "NanumSquareR";
+    font-size: 30px;
+
+    cursor: default ;
+
+    user-select: none;
+}
+.cate5 {
+    background-color: #FFC000;
+
+    width: 270px;
+    height: 80px;
+
+    margin-bottom: 10px;
+
+    /* text vertical & horizontal center */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+    font-family: "NanumSquareR";
+    font-size: 30px;
+
+    cursor: default ;
+
+    user-select: none;
+}
+.cate6 {
+    background-color: #FFC000;
+
+    width: 270px;
+    height: 80px;
+
+    margin-bottom: 10px;
+
+    /* text vertical & horizontal center */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+    font-family: "NanumSquareR";
+    font-size: 30px;
+
+    cursor: default ;
+
+    user-select: none;
+}
+
+#mainlayout {
+    background-color: #FFC000;
+
+    width: 990px;
+    height: 670px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+
+    float: right;
+
+}
